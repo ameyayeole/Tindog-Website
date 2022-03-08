@@ -1,2 +1,1 @@
-# Tindog-Website
-My first fully responsive website
+TinDog Starting Files

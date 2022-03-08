@@ -1,0 +1,147 @@
+
+.mainpage{
+background-color: #ff4c68;
+font-family: 'Montserrat', sans-serif;
+padding: 3% 15%;
+}
+
+.navbar-brand{
+  font-size: 40px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.nav-item{
+  padding: 0 20px 0;
+}
+.maintext{
+  padding-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 50px;
+  line-height: 90px;
+
+}
+.mobile-img{
+  width: 60%;
+  padding:30px 0;
+  position:relative;
+  left:70px;
+  transform: rotate(25deg);
+}
+.btn{
+  margin:30px 10px 0 0;
+}
+ .download-icon{
+    padding-right: 5px;
+}
+
+#features{
+  padding: 7% 15%;
+}
+.feature-text{
+  text-align: center;
+  padding-top: 3%;
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.icon{
+  color: #EF8172;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+p{
+  color: grey;
+}
+
+#testimonials{
+  background-color: #EF8172;
+  text-align: center;
+}
+.testimonial-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 50px;
+}
+.carousel-item{
+padding: 5% 15%;
+}
+.testimonial-image{
+  width: 100px;
+  border-radius: 100%;
+  margin: 20px;
+}
+.testimonial-button{
+  padding: 50px;
+}
+
+#press{
+  background-color: #EF8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-img{
+width: 250px;
+padding: 20px;
+}
+
+#pricing{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.pricing-maintext{
+  padding-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+}
+.dog-name{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+}
+.pricing-row{
+  padding: 2% 10%;
+}
+.card{
+  margin: 3% 2%;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 12% 15%;
+}
+.cta-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 50px;
+}
+
+#footer{
+  text-align: center;
+  margin: 200px;
+}
+
+.footer-icon{
+width: 100px;
+  color: black;
+  margin: 25px;
+}
+.copyright{
+  margin-top: 15px;
+  font-size: 20px;
+}
+@media (max-width:900px) {
+#title{
+  text-align: centre;
+}
+.mobile-img{
+  position: static;
+  transform: rotate(0);
+}
+}
